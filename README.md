@@ -12,8 +12,7 @@ The system also provides authentication, real-time seat status updates, booking 
 
 ## 🚀 Live Demo
 
-**[Open SeatSync →](seatsync-beryl.vercel.app)**
-
+**Live Demo:** https://seatsync.vercel.app
 ---
 
 ## 💡 Problem
